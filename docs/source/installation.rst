@@ -16,6 +16,7 @@ Software Dependencies (tested version)
 - MySQL database (MySQL, MariDB)
 - Python (2.7.2, other versions should work)
 - SRA Toolkit 
+- Picard
 
 Operating systems used: RHEL 5.11 and RHEL 7.2. HyperTRIBE is likely to work seamlessly with the latest version of these software/packages as well.
 
